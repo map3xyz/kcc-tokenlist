@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2cA48b4eeA5A731c2B54e7C3944DBDB87c0CFB6F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MJT (MojitoToken) is the native token of MojitoSwap, with a total circulation of 100,000,000. MJT is a practical and governance token with rich application scenarios. Holding MJT can not only allow investors to participate in liquidity mining and borrow money to obtain rewards, but also make them owning the governance rights of the future Mojito DAO organization."
+  },
+  "id": "749fc797-738d-453f-8967-5f5beeb4ceab",
+  "links": {
+    "explorer": "https://explorer.kcc.io/token/0x2cA48b4eeA5A731c2B54e7C3944DBDB87c0CFB6F",
+    "website": "https://www.mojitoswap.finance/",
+    "telegram": "https://t.me/MojitoFinance",
+    "twitter": "https://twitter.com/MojitoSwap",
+    "github": "https://github.com/MojitoFinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/kcc-tokenlist/master/0x2cA48b4eeA5A731c2B54e7C3944DBDB87c0CFB6F/logo.png"
+  },
+  "name": "MojitoToken",
+  "networkCode": "kcc",
+  "spam": false,
+  "symbol": "MJT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

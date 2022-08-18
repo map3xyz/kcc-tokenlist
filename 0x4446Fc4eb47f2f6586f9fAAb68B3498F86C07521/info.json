@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "KCS is the native token of KuCoin, which was launched back in 2017 as a profit-sharing token that allows traders to draw value from the exchange. It was issued as an ERC-20 token running on the Ethereum network and was supported by most Ethereum wallets. The total supply of KCS was set at 200 million, and there is a planned buyback and burn until just 100 million KCS remain. Sooner or later, as the KuCoin decentralized trading solution goes live, KCS will be the native asset of KuCoin's decentralized financial services as well as the governance token of the KuCoin community in the future."
+  },
+  "id": "8467f0e2-ba7f-4408-95e3-ec0a7f00a2a4",
+  "links": {
+    "explorer": "https://explorer.kcc.io/token/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+    "research": "https://docs.kcc.io/",
+    "website": "https://www.kcc.io/",
+    "telegram": "https://t.me/KCCOfficialEnglishCommunity",
+    "twitter": "https://twitter.com/KCCOfficialTW",
+    "discord": "https://discord.com/channels/840784894984060948/840808321270284289",
+    "medium": "https://kccofficial.medium.com/",
+    "github": "https://github.com/kcc-community"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/kcc-tokenlist/master/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521/logo.png"
+  },
+  "name": "Wrapped KCS",
+  "networkCode": "kcc",
+  "spam": false,
+  "symbol": "WKCS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
