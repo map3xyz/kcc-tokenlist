@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether. The token’s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+  },
+  "id": "19a28294-ef37-4a69-8f5f-6071fec54ccf",
+  "links": {
+    "explorer": "https://explorer.kcc.io/token/0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+    "website": "https://tether.to/en/",
+    "twitter": "https://twitter.com/Tether_to",
+    "whitepaper": "https://tether.to/en/transparency/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/kcc/assets/kcc-tokenlist/0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48/logo.png"
+  },
+  "name": "KCC-Peg Tether USD",
+  "networkCode": "kcc",
+  "spam": false,
+  "symbol": "USDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
