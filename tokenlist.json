@@ -1,0 +1,69 @@
+{
+  "name": "@Map3/kcc-tokenlist",
+  "timestamp": "2022-08-19T13:05:28.290Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "map3 assets"
+  ],
+  "tags": {
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "staking": {
+      "name": "staking",
+      "description": "Tokens that can be staked"
+    }
+  },
+  "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
+  "tokens": [
+    {
+      "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+      "name": "KCC-Peg Tether USD",
+      "decimals": 18,
+      "symbol": "USDT",
+      "tags": []
+    },
+    {
+      "address": "0x2cA48b4eeA5A731c2B54e7C3944DBDB87c0CFB6F",
+      "name": "MojitoToken",
+      "decimals": 18,
+      "symbol": "MJT",
+      "tags": []
+    },
+    {
+      "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+      "name": "Wrapped KCS",
+      "decimals": 18,
+      "symbol": "WKCS",
+      "tags": []
+    },
+    {
+      "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
+      "name": "KCC-Peg USD Coin",
+      "decimals": 18,
+      "symbol": "USDC",
+      "tags": []
+    }
+  ]
+}
