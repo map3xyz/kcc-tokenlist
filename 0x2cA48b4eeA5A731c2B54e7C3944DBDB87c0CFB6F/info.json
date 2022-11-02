@@ -7,6 +7,9 @@
     "en": "MJT (MojitoToken) is the native token of MojitoSwap, with a total circulation of 100,000,000. MJT is a practical and governance token with rich application scenarios. Holding MJT can not only allow investors to participate in liquidity mining and borrow money to obtain rewards, but also make them owning the governance rights of the future Mojito DAO organization."
   },
   "id": "82c9732f-38fc-4ccd-bbc4-eb6f0007482d",
+  "identifiers": {
+    "coinmarketcap": 13400
+  },
   "links": {
     "explorer": "https://explorer.kcc.io/token/0x2cA48b4eeA5A731c2B54e7C3944DBDB87c0CFB6F",
     "website": "https://www.mojitoswap.finance/",
