@@ -1,6 +1,6 @@
 {
   "name": "@Map3/kcc-tokenlist",
-  "timestamp": "2022-08-19T13:05:28.290Z",
+  "timestamp": "2022-11-27T23:30:37.434Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -45,6 +45,13 @@
       "tags": []
     },
     {
+      "address": "0x1B8e27ABA297466fc6765Ce55BD12A8E216759da",
+      "name": "Polygon",
+      "decimals": 18,
+      "symbol": "MATIC",
+      "tags": []
+    },
+    {
       "address": "0x2cA48b4eeA5A731c2B54e7C3944DBDB87c0CFB6F",
       "name": "MojitoToken",
       "decimals": 18,
@@ -59,10 +66,58 @@
       "tags": []
     },
     {
+      "address": "0x652D253b7Ca91810A4a05ACFc39729387c5090C0",
+      "name": "Crypto.com Coin",
+      "decimals": 18,
+      "symbol": "CRO",
+      "tags": []
+    },
+    {
+      "address": "0x73b6086955c820370A18002F60E9b51FB67d7e1A",
+      "name": "SHIBA INU",
+      "decimals": 18,
+      "symbol": "SHIB",
+      "tags": [
+        "deflationary",
+        "memes"
+      ]
+    },
+    {
+      "address": "0x791630C11c7159A748d8c2267a66780B3DDC40a7",
+      "name": "Quant",
+      "decimals": 18,
+      "symbol": "QNT",
+      "tags": []
+    },
+    {
       "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
       "name": "KCC-Peg USD Coin",
       "decimals": 18,
       "symbol": "USDC",
+      "tags": []
+    },
+    {
+      "address": "0xC19a5caCC2bb68Ff09f2Fcc695F31493A039Fa5e",
+      "name": "Decentraland",
+      "decimals": 18,
+      "symbol": "MANA",
+      "tags": []
+    },
+    {
+      "address": "0xE76e97C157658004eE22e01C03a5e21A4655A2Fd",
+      "name": "Aave",
+      "decimals": 18,
+      "symbol": "AAVE",
+      "tags": [
+        "defi",
+        "governance"
+      ]
+    },
+    {
+      "address": "0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1",
+      "name": "Ethereum",
+      "decimals": 18,
+      "symbol": "ETH",
       "tags": []
     }
   ]

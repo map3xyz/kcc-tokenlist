@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x73b6086955c820370A18002F60E9b51FB67d7e1A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "According to SHIBA INU, the reasoning behind the creation of SHIBA is that Shibas constantly forget where they bury their treasure. The website proclaims \"Many doggie wars have been waged over precious treasure and delicious goodies.\""
+  },
+  "id": "f29b8644-d3b3-4fd8-b802-76a17d6c8ba8",
+  "links": {
+    "explorer": "https://explorer.kcc.io/token/0x73b6086955c820370A18002F60E9b51FB67d7e1A",
+    "website": "https://shibatoken.com/",
+    "telegram": "https://t.me/shibainuthedogecoinkiller",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shiba-inu/",
+    "coingecko": "https://coingecko.com/en/coins/shiba-inu/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/kcc-tokenlist/master/0x73b6086955c820370A18002F60E9b51FB67d7e1A/logo.png"
+  },
+  "name": "SHIBA INU",
+  "networkCode": "kcc",
+  "spam": false,
+  "symbol": "SHIB",
+  "tags": [
+    "deflationary",
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

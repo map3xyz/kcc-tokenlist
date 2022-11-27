@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x791630C11c7159A748d8c2267a66780B3DDC40a7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Blockchain operating system that connects the world’s networks and facilitates the development of multi-chain applications."
+  },
+  "id": "da414f97-d110-4d2e-9e65-ec77cec9f207",
+  "links": {
+    "explorer": "https://explorer.kcc.io/token/0x791630C11c7159A748d8c2267a66780B3DDC40a7",
+    "website": "https://www.quant.network/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/quant/",
+    "twitter": "https://twitter.com/quant_network",
+    "telegram": "https://t.me/QuantOverledger"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/kcc-tokenlist/master/0x791630C11c7159A748d8c2267a66780B3DDC40a7/logo.png"
+  },
+  "name": "Quant",
+  "networkCode": "kcc",
+  "spam": false,
+  "symbol": "QNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
