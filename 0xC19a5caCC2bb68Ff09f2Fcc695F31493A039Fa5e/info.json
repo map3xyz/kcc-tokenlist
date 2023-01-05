@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC19a5caCC2bb68Ff09f2Fcc695F31493A039Fa5e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications"
+  },
+  "id": "5fa6d99e-bcee-48ce-b41a-d316d24fba98",
+  "links": {
+    "explorer": "https://explorer.kcc.io/token/0xC19a5caCC2bb68Ff09f2Fcc695F31493A039Fa5e",
+    "website": "https://decentraland.org/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/decentraland/",
+    "twitter": "https://twitter.com/decentraland",
+    "github": "https://github.com/decentraland"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/kcc-tokenlist/master/0xC19a5caCC2bb68Ff09f2Fcc695F31493A039Fa5e/logo.png"
+  },
+  "name": "Decentraland",
+  "networkCode": "kcc",
+  "spam": false,
+  "symbol": "MANA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

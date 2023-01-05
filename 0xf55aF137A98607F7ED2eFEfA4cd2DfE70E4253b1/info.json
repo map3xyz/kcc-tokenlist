@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "KCC-Peg Ethereum is a token issued by Binance on Smart Chain; its price is pegged to Ethereum (ETH) at a ratio of 1:1."
+  },
+  "id": "5fc8cb45-c56b-4bcf-8c95-30eae301ab14",
+  "links": {
+    "explorer": "https://explorer.kcc.io/token/0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1",
+    "website": "https://ethereum.org/",
+    "github": "https://github.com/ethereum/ethereum-org-website",
+    "twitter": "https://twitter.com/ethdotorg",
+    "youtube": "https://youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g",
+    "discord": "https://discord.com/invite/CetY6Y4"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/kcc-tokenlist/master/0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1/logo.png"
+  },
+  "name": "Ethereum",
+  "networkCode": "kcc",
+  "spam": false,
+  "symbol": "ETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
