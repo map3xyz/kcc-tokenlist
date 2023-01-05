@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x1B8e27ABA297466fc6765Ce55BD12A8E216759da",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Matic Network is a layer-2 scaling solution that uses sidechains for off-chain computation while ensuring asset security using Plasma framework and a decentralized network of Proof-of-Stake (PoS) vailidators."
+  },
+  "id": "c317459c-2e4d-4fdc-a433-13cc5d475e90",
+  "links": {
+    "explorer": "https://explorer.kcc.io/token/0x1B8e27ABA297466fc6765Ce55BD12A8E216759da",
+    "website": "https://polygon.technology",
+    "telegram": "https://t.me/polygonofficial",
+    "twitter": "https://twitter.com/0xPolygon"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kcc/assets/0x1B8e27ABA297466fc6765Ce55BD12A8E216759da/logo.png"
+  },
+  "name": "Polygon",
+  "networkCode": "kcc",
+  "spam": false,
+  "symbol": "MATIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
